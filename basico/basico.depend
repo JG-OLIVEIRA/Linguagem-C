@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1644844835 source:/home/jorgeoliveira/comecando-em-c/basico/main.c
+	<stdio.h>
+
