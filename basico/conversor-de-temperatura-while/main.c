@@ -6,12 +6,12 @@ float converteParaFahrenheit(float);
 int main(void)
 {
     float celcius = -10.0;
-    while(celcius <= 50){
+    while(celcius <= 50.0){
         printf("%f\t%f\n", celcius, converteParaFahrenheit(celcius));
         celcius = celcius + 10.0;
     }
 }
 
 float converteParaFahrenheit(float celcius){
-    return celcius * (9/5) + 32;
+    return celcius * (9/5) + 32.0;
 }
