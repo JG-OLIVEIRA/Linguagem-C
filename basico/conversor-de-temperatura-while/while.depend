@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645483559 source:/home/jorgeoliveira/Documentos/projects/comecando-em-c/basico/while/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,11 +1,14 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 float converteParaFahrenheit(float);
 
 int main(void)
 {
-    for(float celcius = -10; celcius <= 50; celcius = celcius + 10){
+    float celcius = -10.0;
+    while(celcius <= 50){
         printf("%f\t%f\n", celcius, converteParaFahrenheit(celcius));
+        celcius = celcius + 10.0;
     }
 }
 

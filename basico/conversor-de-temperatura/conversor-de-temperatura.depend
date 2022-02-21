@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1645483946 source:/home/jorgeoliveira/Documentos/projects/comecando-em-c/basico/conversor-de-temperatura/main.c
+	<stdio.h>
+
